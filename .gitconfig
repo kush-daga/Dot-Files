@@ -1,0 +1,6 @@
+[core]
+	autocrlf = false
+	editor = nano
+[user]
+	name = Kush Daga
+	email = kush.daga@fampay.in
